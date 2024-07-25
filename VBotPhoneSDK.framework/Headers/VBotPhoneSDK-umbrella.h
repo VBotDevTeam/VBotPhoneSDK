@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "VBotPhoneSDK-Bridging-Header.h"
 
 FOUNDATION_EXPORT double VBotPhoneSDKVersionNumber;
 FOUNDATION_EXPORT const unsigned char VBotPhoneSDKVersionString[];
