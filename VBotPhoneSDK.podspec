@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.dependency 'Starscream', '4.0.6'
   s.dependency 'VBotSIP', '1.2.0'
   
-  s.vendored_frameworks = 'VBotPhoneSDK.framework'
+  s.vendored_frameworks = 'VBotPhoneSDK.framework', 'KeychainSwift.framework', 'Starscream.framework'
   s.frameworks = 'CoreFoundation', 'AudioToolbox', 'AVFoundation', 'GLKit', 'CFNetwork',  'CoreMedia'
   
 end
