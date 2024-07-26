@@ -29,7 +29,6 @@ Pod::Spec.new do |s|
   s.xcconfig = { 'OTHER_SWIFT_FLAGS' => '-no-verify-emitted-module-interface',
       'ONLY_ACTIVE_ARCH' => 'NO',
       'GCC_PREPROCESSOR_DEFINITIONS' => '$(inherited)',
-      'GCC_PREPROCESSOR_DEFINITIONS' => 'PJ_AUTOCONF=1',
-      'IPHONEOS_DEPLOYMENT_TARGET' => '13.5'}
+      'GCC_PREPROCESSOR_DEFINITIONS' => 'PJ_AUTOCONF=1'}
   
 end
