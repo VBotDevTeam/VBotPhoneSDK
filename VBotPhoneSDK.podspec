@@ -18,11 +18,19 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
   s.ios.deployment_target = '13.5'
 
+  
+  s.dependency 'VBotSIP', '1.2.0'
   s.dependency 'KeychainSwift', '20.0'
   s.dependency 'Starscream', '4.0.6'
-  s.dependency 'VBotSIP', '1.2.0'
   
   s.vendored_frameworks = 'VBotPhoneSDK.framework', 'KeychainSwift.framework', 'Starscream.framework'
   s.frameworks = 'CoreFoundation', 'AudioToolbox', 'AVFoundation', 'GLKit', 'CFNetwork',  'CoreMedia'
+
+  s.xcconfig = { 'OTHER_SWIFT_FLAGS' => '-no-verify-emitted-module-interface',
+      'ONLY_ACTIVE_ARCH' => 'NO',
+      'GCC_PREPROCESSOR_DEFINITIONS' => '$(inherited)',
+      'GCC_PREPROCESSOR_DEFINITIONS' => 'PJ_AUTOCONF=1',
+      'GCC_PREPROCESSOR_DEFINITIONS'=> 'SV_APP_EXTENSIONS',
+      'IPHONEOS_DEPLOYMENT_TARGET' => '13.5'}
   
 end
