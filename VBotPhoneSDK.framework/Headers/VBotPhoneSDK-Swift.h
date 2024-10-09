@@ -317,7 +317,6 @@ SWIFT_CLASS("_TtC12VBotPhoneSDK9VBotPhone")
 
 
 
-
 @class NSString;
 
 SWIFT_CLASS("_TtC12VBotPhoneSDK16VBotReachability")
@@ -335,13 +334,6 @@ SWIFT_CLASS("_TtC12VBotPhoneSDK16VBotReachability")
 
 
 
-
-
-SWIFT_CLASS("_TtC12VBotPhoneSDK22VBotReachabilityHelper")
-@interface VBotReachabilityHelper : NSObject
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
-@end
 
 
 #endif

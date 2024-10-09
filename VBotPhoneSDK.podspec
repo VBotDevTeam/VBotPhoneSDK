@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VBotPhoneSDK'
-  s.version          = '1.0.1'
+  s.version          = '1.2.0'
   s.summary          = 'VBot SDK Library for iOS.'
   s.homepage         = 'https://vbot.vn'
   s.license          = 'GNU GPL v3'
@@ -20,10 +20,8 @@ Pod::Spec.new do |s|
 
   
   s.dependency 'VBotSIP', '1.2.0'
-  s.dependency 'KeychainSwift', '20.0'
-  s.dependency 'Starscream', '4.0.6'
   
-  s.vendored_frameworks = 'VBotPhoneSDK.framework', 'KeychainSwift.framework', 'Starscream.framework'
+  s.vendored_frameworks = 'VBotPhoneSDK.framework'
   s.frameworks = 'CoreFoundation', 'AudioToolbox', 'AVFoundation', 'GLKit', 'CFNetwork',  'CoreMedia'
 
   s.xcconfig = { 'OTHER_SWIFT_FLAGS' => '-no-verify-emitted-module-interface',
