@@ -1148,10 +1148,7 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "VBotPhoneSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "VBotPhoneSDK"
       },
       {
         "kind": "Import",
@@ -5065,35 +5062,42 @@
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/PushKitManager.swift",
       "kind": "StringLiteral",
-      "offset": 555,
+      "offset": 444,
       "length": 8,
       "value": "\"%.2hhx\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/PushKitManager.swift",
       "kind": "StringLiteral",
-      "offset": 1818,
+      "offset": 1609,
+      "length": 31,
+      "value": "\"Không thể lấy token push\""
+    },
+    {
+      "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/PushKitManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2028,
       "length": 67,
       "value": "\"Nhận được thông báo đẩy của loại: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/PushKitManager.swift",
       "kind": "StringLiteral",
-      "offset": 1884,
+      "offset": 2094,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/PushKitManager.swift",
       "kind": "StringLiteral",
-      "offset": 2049,
-      "length": 40,
-      "value": "\"Unknown incoming push \""
+      "offset": 2267,
+      "length": 58,
+      "value": "\"Thông báo đẩy không xác định: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/PushKitManager.swift",
       "kind": "StringLiteral",
-      "offset": 2088,
+      "offset": 2324,
       "length": 2,
       "value": "\"\""
     },
@@ -5205,595 +5209,595 @@
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 281,
+      "offset": 278,
       "length": 30,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 297,
+      "offset": 294,
       "length": 1,
       "value": "\"\/api\/sdk\/info\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 421,
+      "offset": 418,
       "length": 44,
       "value": "\"Không có mã thông báo APN hợp lệ.\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 517,
+      "offset": 514,
       "length": 9,
       "value": "\"App-SDK\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 552,
+      "offset": 549,
       "length": 66,
       "value": "\"token=\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 573,
+      "offset": 570,
       "length": 1,
       "value": "\"&source=\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 590,
+      "offset": 587,
       "length": 1,
       "value": "\"&tokenCall=ios-\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 617,
+      "offset": 614,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 696,
+      "offset": 693,
       "length": 35,
       "value": "\"application\/x-www-form-urlencoded\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 753,
+      "offset": 750,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 798,
+      "offset": 795,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 1002,
+      "offset": 999,
       "length": 60,
       "value": "\"Kết nối máy chủ lỗi: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 1061,
+      "offset": 1058,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "IntegerLiteral",
-      "offset": 1345,
+      "offset": 1342,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 1636,
+      "offset": 1633,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 1742,
+      "offset": 1739,
       "length": 60,
       "value": "\"Kết nối máy chủ lỗi: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 1801,
+      "offset": 1798,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 1989,
+      "offset": 1986,
       "length": 60,
       "value": "\"Kết nối máy chủ lỗi: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2048,
+      "offset": 2045,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2095,
+      "offset": 2092,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "IntegerLiteral",
-      "offset": 2105,
+      "offset": 2102,
       "length": 3,
       "value": "401"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2429,
+      "offset": 2426,
       "length": 32,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2445,
+      "offset": 2442,
       "length": 1,
       "value": "\"\/api\/sdk\/logout\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2524,
+      "offset": 2521,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2548,
+      "offset": 2545,
       "length": 9,
       "value": "\"App-SDK\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2583,
+      "offset": 2580,
       "length": 33,
       "value": "\"token=\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2598,
+      "offset": 2595,
       "length": 1,
       "value": "\"&source=\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2615,
+      "offset": 2612,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2694,
+      "offset": 2691,
       "length": 35,
       "value": "\"application\/x-www-form-urlencoded\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2751,
+      "offset": 2748,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2796,
+      "offset": 2793,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 3000,
+      "offset": 2997,
       "length": 67,
       "value": "\"Ngắt kết nối máy chủ lỗi: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 3066,
+      "offset": 3063,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "IntegerLiteral",
-      "offset": 3347,
+      "offset": 3344,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 3583,
+      "offset": 3580,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 3689,
+      "offset": 3686,
       "length": 67,
       "value": "\"Ngắt kết nối máy chủ lỗi: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 3755,
+      "offset": 3752,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 3938,
+      "offset": 3935,
       "length": 67,
       "value": "\"Ngắt kết nối máy chủ lỗi: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 4004,
+      "offset": 4001,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 4051,
+      "offset": 4048,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "IntegerLiteral",
-      "offset": 4061,
+      "offset": 4058,
       "length": 3,
       "value": "401"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 4385,
+      "offset": 4382,
       "length": 41,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 4401,
+      "offset": 4398,
       "length": 1,
       "value": "\"\/api\/sdk\/updateNotiToken\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 4489,
+      "offset": 4486,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 4596,
+      "offset": 4593,
       "length": 49,
       "value": "\"token=\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 4611,
+      "offset": 4608,
       "length": 1,
       "value": "\"&tokenCall=ios-\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 4641,
+      "offset": 4638,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 4644,
+      "offset": 4641,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 4723,
+      "offset": 4720,
       "length": 35,
       "value": "\"application\/x-www-form-urlencoded\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 4780,
+      "offset": 4777,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 4825,
+      "offset": 4822,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 5029,
+      "offset": 5026,
       "length": 61,
       "value": "\"Cập nhật APNS Token lỗi: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 5089,
+      "offset": 5086,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "IntegerLiteral",
-      "offset": 5370,
+      "offset": 5367,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 5556,
+      "offset": 5553,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 5662,
+      "offset": 5659,
       "length": 61,
       "value": "\"Cập nhật APNS Token lỗi: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 5722,
+      "offset": 5719,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 5905,
+      "offset": 5902,
       "length": 61,
       "value": "\"Cập nhật APNS Token lỗi: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 5965,
+      "offset": 5962,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 6012,
+      "offset": 6009,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "IntegerLiteral",
-      "offset": 6022,
+      "offset": 6019,
       "length": 3,
       "value": "401"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 6388,
+      "offset": 6385,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 6421,
+      "offset": 6418,
       "length": 51,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 6437,
+      "offset": 6434,
       "length": 1,
       "value": "\"\/api\/sdk\/getHotline?token=\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 6471,
+      "offset": 6468,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 6556,
+      "offset": 6553,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 6724,
+      "offset": 6721,
       "length": 62,
       "value": "\"Lấy danh sách hotline lỗi: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 6785,
+      "offset": 6782,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "IntegerLiteral",
-      "offset": 7072,
+      "offset": 7069,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 7268,
+      "offset": 7265,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 7526,
+      "offset": 7523,
       "length": 62,
       "value": "\"Lấy danh sách hotline lỗi: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 7587,
+      "offset": 7584,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 7634,
+      "offset": 7631,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "IntegerLiteral",
-      "offset": 7644,
+      "offset": 7641,
       "length": 3,
       "value": "401"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 8128,
+      "offset": 8125,
       "length": 13,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 8140,
+      "offset": 8137,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 8724,
+      "offset": 8721,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 8786,
+      "offset": 8783,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 8854,
+      "offset": 8851,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 8914,
+      "offset": 8911,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 8974,
+      "offset": 8971,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 9043,
+      "offset": 9040,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 9108,
+      "offset": 9105,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 9173,
+      "offset": 9170,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotAPI.swift",
       "kind": "StringLiteral",
-      "offset": 9236,
+      "offset": 9233,
       "length": 2,
       "value": "\"\""
     },
