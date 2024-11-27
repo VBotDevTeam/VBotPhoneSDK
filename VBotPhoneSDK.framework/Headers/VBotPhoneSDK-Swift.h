@@ -301,12 +301,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
-SWIFT_CLASS("_TtC12VBotPhoneSDK10VBotLogger")
-@interface VBotLogger : NSObject
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-
 SWIFT_CLASS("_TtC12VBotPhoneSDK9VBotPhone")
 @interface VBotPhone : NSObject
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;

@@ -65,12 +65,6 @@ public struct VBotHotline : Swift.Codable {
 extension VBotPhoneSDK.NetworkReachabilityManager.NetworkReachabilityStatus : Swift.Equatable {
   public static func == (a: VBotPhoneSDK.NetworkReachabilityManager.NetworkReachabilityStatus, b: VBotPhoneSDK.NetworkReachabilityManager.NetworkReachabilityStatus) -> Swift.Bool
 }
-@objc @_inheritsConvenienceInitializers public class VBotLogger : ObjectiveC.NSObject {
-  public func setup()
-  public func log(flag: CocoaLumberjack.DDLogFlag, file: Swift.String, function: Swift.String, line: Swift.UInt, _ message: Swift.String)
-  @objc override dynamic public init()
-  @objc deinit
-}
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VBotPhone : ObjectiveC.NSObject {
   public static let sharedInstance: VBotPhoneSDK.VBotPhone
   public var audioOutput: VBotSIP.VBotAudioControllerOutputs?
