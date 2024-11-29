@@ -5666,76 +5666,83 @@
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1986,
-      "length": 119,
-      "value": "\"Cuộc gọi \""
+      "length": 112,
+      "value": "\"Gọi \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 2020,
+      "offset": 2013,
       "length": 8,
-      "value": "\"ĐẾN\""
+      "value": "\"đến\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 2031,
+      "offset": 2024,
       "length": 5,
-      "value": "\"ĐI\""
+      "value": "\"đi\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 2037,
+      "offset": 2030,
       "length": 1,
       "value": "\", trạng thái: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 2085,
+      "offset": 2078,
       "length": 1,
       "value": "\", mã: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 2104,
+      "offset": 2097,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 2979,
+      "offset": 2972,
       "length": 16,
       "value": "\"Call ended (1)\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 3071,
-      "length": 93,
-      "value": "\"Cuộc gọi không được kết nối, ở trạng thái DISCONNECTED, mã: \""
+      "offset": 3064,
+      "length": 57,
+      "value": "\"Tắt máy khi cuộc gọi không được kết nối\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 3163,
-      "length": 2,
+      "offset": 3385,
+      "length": 79,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 3428,
-      "length": 92,
-      "value": "\"Cuộc gọi kết thúc ở đầu kia, ở trạng thái DISCONNECTED, mã: \""
+      "offset": 3406,
+      "length": 27,
+      "value": "\"Người gọi tắt máy\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 3519,
+      "offset": 3436,
+      "length": 26,
+      "value": "\"Người nghe tắt máy\""
+    },
+    {
+      "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 3463,
       "length": 2,
       "value": "\"\""
     },
@@ -5749,287 +5756,287 @@
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 4420,
+      "offset": 4364,
       "length": 65,
       "value": "\"Đặt lại provider, kết thúc tất cả các cuộc gọi\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 5210,
+      "offset": 5154,
       "length": 116,
       "value": "\"Lỗi khi trả lời cuộc gọi call.uuid: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 5280,
+      "offset": 5224,
       "length": 1,
       "value": "\", error: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 5322,
+      "offset": 5266,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 5325,
+      "offset": 5269,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 5478,
+      "offset": 5422,
       "length": 61,
       "value": "\"Trả lời cuộc gọi call.uuid: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 5538,
+      "offset": 5482,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 5668,
+      "offset": 5612,
       "length": 64,
       "value": "\"Không thể trả lời cuộc gọi: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 5731,
+      "offset": 5675,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 6654,
+      "offset": 6598,
       "length": 69,
       "value": "\"Không thể từ chối cuộc gọi \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 6722,
+      "offset": 6666,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 7190,
+      "offset": 7134,
       "length": 53,
       "value": "\"Bắt đầu cuộc gọi : \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 7242,
+      "offset": 7186,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 9525,
+      "offset": 9469,
       "length": 76,
       "value": "\"Đang thực hiện hành động \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 9599,
+      "offset": 9543,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 9701,
+      "offset": 9645,
       "length": 40,
       "value": "\"Không thể tìm thấy cuộc gọi.\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 9998,
+      "offset": 9942,
       "length": 91,
       "value": "\"Đang thực hiện hành động findCallOrFail \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 10087,
+      "offset": 10031,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 10173,
+      "offset": 10117,
       "length": 113,
       "value": "\"Lỗi khi thực hiện hành động \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 10251,
+      "offset": 10195,
       "length": 1,
       "value": "\", không tìm thấy cuộc gọi.\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 10455,
+      "offset": 10399,
       "length": 127,
       "value": "\"Không thể thực hiện hành động trên cuộc gọi: (\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 10541,
+      "offset": 10485,
       "length": 1,
       "value": "\"), lỗi: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 10581,
+      "offset": 10525,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "BooleanLiteral",
-      "offset": 10708,
+      "offset": 10652,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "BooleanLiteral",
-      "offset": 10774,
+      "offset": 10718,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 10810,
+      "offset": 10754,
       "length": 54,
       "value": "\"Đang chờ cuộc gọi đến được xác nhận\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "IntegerLiteral",
-      "offset": 10979,
+      "offset": 10923,
       "length": 5,
       "value": "30000"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 11029,
+      "offset": 10973,
       "length": 154,
       "value": "\"Hoàn thành việc chờ đợi với kết quả: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 11104,
+      "offset": 11048,
       "length": 33,
       "value": "\"Đã chấp nhận cuộc gọi\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 11140,
+      "offset": 11084,
       "length": 41,
       "value": "\"Cuộc gọi chưa được xác nhận\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 11182,
+      "offset": 11126,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "BooleanLiteral",
-      "offset": 11387,
+      "offset": 11331,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "BooleanLiteral",
-      "offset": 11477,
+      "offset": 11421,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 11533,
+      "offset": 11477,
       "length": 54,
       "value": "\"Đang chờ cuộc gọi đến được xác nhận\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "IntegerLiteral",
-      "offset": 11748,
+      "offset": 11692,
       "length": 5,
       "value": "30000"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 11850,
+      "offset": 11794,
       "length": 63,
       "value": "\"Hoàn thành việc chờ đợi với kết quả: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 11912,
+      "offset": 11856,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "IntegerLiteral",
-      "offset": 12288,
+      "offset": 12232,
       "length": 5,
       "value": "10000"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "IntegerLiteral",
-      "offset": 12426,
+      "offset": 12370,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "IntegerLiteral",
-      "offset": 12461,
+      "offset": 12405,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotCallKitDelegate.swift",
       "kind": "IntegerLiteral",
-      "offset": 12660,
+      "offset": 12604,
       "length": 4,
       "value": "1000"
     },
@@ -6162,247 +6169,296 @@
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "BooleanLiteral",
-      "offset": 3165,
+      "offset": 3114,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "BooleanLiteral",
-      "offset": 3357,
+      "offset": 3204,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3396,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 3629,
+      "offset": 3668,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "IntegerLiteral",
-      "offset": 3701,
+      "offset": 3740,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "BooleanLiteral",
-      "offset": 3830,
+      "offset": 3869,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 3964,
+      "offset": 4002,
       "length": 11,
       "value": "\"❗\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4006,
+      "offset": 4044,
       "length": 11,
       "value": "\"💛\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4046,
+      "offset": 4084,
       "length": 11,
       "value": "\"💙\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4087,
+      "offset": 4125,
       "length": 11,
       "value": "\"💚\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4129,
+      "offset": 4167,
       "length": 11,
       "value": "\"💜\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4317,
+      "offset": 4355,
       "length": 25,
       "value": "\"yyyy\/MM\/dd HH:mm:ss.SSS\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4472,
+      "offset": 4510,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4552,
+      "offset": 4590,
       "length": 22,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4564,
+      "offset": 4602,
       "length": 5,
       "value": "\" ERROR   \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4621,
+      "offset": 4659,
       "length": 25,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4636,
+      "offset": 4674,
       "length": 7,
       "value": "\" WARNING \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4690,
+      "offset": 4728,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4703,
+      "offset": 4741,
       "length": 4,
       "value": "\" INFO    \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4758,
+      "offset": 4796,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4772,
+      "offset": 4810,
       "length": 5,
       "value": "\" DEBUG   \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4829,
+      "offset": 4867,
       "length": 25,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4844,
+      "offset": 4882,
       "length": 7,
       "value": "\" VERBOSE \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 4895,
+      "offset": 4933,
       "length": 9,
       "value": "\"un-def \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 5487,
+      "offset": 5509,
       "length": 52,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 5499,
+      "offset": 5521,
       "length": 1,
       "value": "\" | \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 5514,
+      "offset": 5536,
       "length": 1,
       "value": "\" | \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 5538,
+      "offset": 5560,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 5576,
-      "length": 118,
+      "offset": 5602,
+      "length": 116,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 5588,
+      "offset": 5614,
       "length": 1,
       "value": "\" | \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 5603,
-      "length": 1,
-      "value": "\" | [\""
-    },
-    {
-      "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 5618,
+      "offset": 5629,
       "length": 1,
       "value": "\" | \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 5646,
+      "offset": 5643,
+      "length": 1,
+      "value": "\" | \""
+    },
+    {
+      "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 5671,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 5649,
+      "offset": 5674,
       "length": 1,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 5668,
+      "offset": 5693,
       "length": 1,
-      "value": "\"] | \""
+      "value": "\" | \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
       "kind": "StringLiteral",
-      "offset": 5693,
+      "offset": 5717,
       "length": 1,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 5915,
+      "length": 3,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5953,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 6346,
+      "length": 3,
+      "value": "\"m\""
+    },
+    {
+      "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 6360,
+      "length": 3,
+      "value": "\"h\""
+    },
+    {
+      "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6389,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6439,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotPhone.swift",
@@ -7471,77 +7527,77 @@
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotSocket.swift",
       "kind": "StringLiteral",
-      "offset": 6311,
+      "offset": 6350,
       "length": 29,
       "value": "\"Máy chủ đã kết nối\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 6364,
+      "offset": 6422,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 6399,
+      "offset": 6457,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 6469,
+      "offset": 6527,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotSocket.swift",
       "kind": "StringLiteral",
-      "offset": 6531,
+      "offset": 6589,
       "length": 18,
       "value": "\"Đã kết nối\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotSocket.swift",
       "kind": "StringLiteral",
-      "offset": 6781,
+      "offset": 6839,
       "length": 48,
       "value": "\"Máy chủ đã đóng với mã: \""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotSocket.swift",
       "kind": "StringLiteral",
-      "offset": 6828,
+      "offset": 6886,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 6853,
+      "offset": 6911,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 7156,
+      "offset": 7214,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotSocket.swift",
       "kind": "StringLiteral",
-      "offset": 7186,
+      "offset": 7244,
       "length": 21,
       "value": "\"Đóng kết nối.\""
     },
     {
       "filePath": "\/Users\/datnguyenquoc\/1qdatt_XCodePrj\/VBotSDK-2024\/VBotPhone\/VBotPhoneSDK\/Classes\/VBotSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 7346,
+      "offset": 7404,
       "length": 5,
       "value": "false"
     },

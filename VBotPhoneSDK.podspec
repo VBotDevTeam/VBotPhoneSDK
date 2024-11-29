@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VBotPhoneSDK'
-  s.version          = '1.4.0'
+  s.version          = '1.5.0'
   s.summary          = 'VBot SDK Library for iOS.'
   s.homepage         = 'https://vbot.vn'
   s.license          = 'GNU GPL v3'
