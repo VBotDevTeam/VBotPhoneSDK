@@ -65,18 +65,23 @@ public struct VBotHotline : Swift.Codable {
 extension VBotPhoneSDK.NetworkReachabilityManager.NetworkReachabilityStatus : Swift.Equatable {
   public static func == (a: VBotPhoneSDK.NetworkReachabilityManager.NetworkReachabilityStatus, b: VBotPhoneSDK.NetworkReachabilityManager.NetworkReachabilityStatus) -> Swift.Bool
 }
+public protocol VBotPhoneDelegate {
+  func callAccepted()
+  func callHungup()
+  func callStateChanged(call: VBotSIP.VBotCall)
+}
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VBotPhone : ObjectiveC.NSObject {
   public static let sharedInstance: VBotPhoneSDK.VBotPhone
   public var audioOutput: VBotSIP.VBotAudioControllerOutputs?
+  public var voIPPushPayload: VBotPhoneSDK.VoIPPushPayload?
   public var callName: Swift.String
-  public func setup()
+  public func setup(delegate: any VBotPhoneSDK.VBotPhoneDelegate)
   public func connect(token: Swift.String, completion: @escaping (Swift.String?, (any Swift.Error)?) -> Swift.Void)
   public func disconnect(completion: @escaping ((any Swift.Error)?) -> Swift.Void)
   public func isUserConnected() -> Swift.Bool
   public func userDisplayName() -> Swift.String?
   public func userToken() -> Swift.String?
   public func getHotlines(completion: @escaping ([VBotPhoneSDK.VBotHotline]?, (any Swift.Error)?) -> Swift.Void)
-  public func setupSocket(sendCallState: Swift.Bool = false, message: Swift.String = "")
   public func readyForIncomingCall()
   public func disconnectSocket()
   public func sendCallState(method: VBotPhoneSDK.SocketMethod, message: Swift.String?)
@@ -169,6 +174,8 @@ public enum SocketMethod : Swift.String, Swift.CaseIterable {
 }
 extension VBotSIP.VBotCallState {
   public func stringValue() -> Swift.String
+}
+public struct VoIPPushPayload {
 }
 extension VBotPhoneSDK.NetworkReachabilityManager.NetworkReachabilityStatus.ConnectionType : Swift.Equatable {}
 extension VBotPhoneSDK.NetworkReachabilityManager.NetworkReachabilityStatus.ConnectionType : Swift.Hashable {}
