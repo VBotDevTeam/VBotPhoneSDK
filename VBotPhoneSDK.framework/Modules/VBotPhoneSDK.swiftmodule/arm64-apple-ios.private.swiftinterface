@@ -75,7 +75,7 @@ public protocol VBotPhoneDelegate {
   public var audioOutput: VBotSIP.VBotAudioControllerOutputs?
   public var voIPPushPayload: VBotPhoneSDK.VoIPPushPayload?
   public var callName: Swift.String
-  public func setup(delegate: any VBotPhoneSDK.VBotPhoneDelegate)
+  public func setup(delegate: (any VBotPhoneSDK.VBotPhoneDelegate)? = nil)
   public func connect(token: Swift.String, completion: @escaping (Swift.String?, (any Swift.Error)?) -> Swift.Void)
   public func disconnect(completion: @escaping ((any Swift.Error)?) -> Swift.Void)
   public func isUserConnected() -> Swift.Bool
