@@ -65,10 +65,35 @@ public struct VBotHotline : Swift.Codable {
 extension VBotPhoneSDK.NetworkReachabilityManager.NetworkReachabilityStatus : Swift.Equatable {
   public static func == (a: VBotPhoneSDK.NetworkReachabilityManager.NetworkReachabilityStatus, b: VBotPhoneSDK.NetworkReachabilityManager.NetworkReachabilityStatus) -> Swift.Bool
 }
+extension Foundation.NSNotification.Name {
+  public static let VBotCallStarted: Foundation.Notification.Name
+  public static let VBotCallAccepted: Foundation.Notification.Name
+  public static let VBotCallEnded: Foundation.Notification.Name
+  public static let VBotCallMuteStateDidChange: Foundation.Notification.Name
+  public static let VBotCallHoldStateDidChange: Foundation.Notification.Name
+  public static let teardownSip: Foundation.Notification.Name
+  public static let receivedApnsToken: Foundation.Notification.Name
+  public static let remoteLoggingStateChanged: Foundation.Notification.Name
+}
+public struct VBotLogger {
+  public static func log(level: CocoaLumberjack.DDLogFlag, file: Swift.String = #file, function: Swift.String = #function, line: Swift.UInt = #line, _ message: Swift.String)
+  public static func verbose(file: Swift.String = #file, function: Swift.String = #function, line: Swift.UInt = #line, _ message: Swift.String)
+  public static func debug(file: Swift.String = #file, function: Swift.String = #function, line: Swift.UInt = #line, _ message: Swift.String)
+  public static func info(file: Swift.String = #file, function: Swift.String = #function, line: Swift.UInt = #line, _ message: Swift.String)
+  public static func warning(file: Swift.String = #file, function: Swift.String = #function, line: Swift.UInt = #line, _ message: Swift.String)
+  public static func error(file: Swift.String = #file, function: Swift.String = #function, line: Swift.UInt = #line, _ message: Swift.String)
+}
+extension CocoaLumberjack.DDLogFlag : Swift.Hashable {
+  public func hash(into hasher: inout Swift.Hasher)
+  public static func == (lhs: CocoaLumberjack.DDLogFlag, rhs: CocoaLumberjack.DDLogFlag) -> Swift.Bool
+}
 public protocol VBotPhoneDelegate {
-  func callAccepted()
-  func callHungup()
   func callStateChanged(call: VBotSIP.VBotCall)
+  func callStarted()
+  func callAccepted()
+  func callEnded()
+  func callMuteStateDidChange(muted: Swift.Bool)
+  func callHoldStateDidChange(isOnHold: Swift.Bool)
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VBotPhone : ObjectiveC.NSObject {
   public static let sharedInstance: VBotPhoneSDK.VBotPhone
@@ -89,14 +114,14 @@ public protocol VBotPhoneDelegate {
 }
 extension VBotPhoneSDK.VBotPhone {
   public func createError(description: Swift.String) -> Foundation.NSError
-  public func startCall(hotline: Swift.String, phoneNumber: Swift.String, completion: @escaping ((any Swift.Error)?) -> Swift.Void)
+  public func startCall(hotline: Swift.String, phoneNumber: Swift.String, name: Swift.String? = nil, completion: @escaping ((any Swift.Error)?) -> Swift.Void)
   public func getActiveCall() -> VBotSIP.VBotCall?
   public func endCall(completion: @escaping ((any Swift.Error)?) -> Swift.Void)
-  public func muteCall(completion: @escaping ((any Swift.Error)?) -> Swift.Void)
+  public func muteCall()
+  public func holdCall(completion: @escaping ((any Swift.Error)?) -> Swift.Void)
   public func hasAudioBluetooth() -> Swift.Bool
   public func isSpeakerOn() -> Swift.Bool
   public func onOffSpeaker()
-  public func holdCall(completion: @escaping ((any Swift.Error)?) -> Swift.Void)
   public func isCallHold() -> Swift.Bool
   public func isCallMute() -> Swift.Bool
   public func sendDTMF(digit: Swift.String, completion: @escaping ((any Swift.Error)?) -> Swift.Void)
@@ -176,6 +201,14 @@ extension VBotSIP.VBotCallState {
   public func stringValue() -> Swift.String
 }
 public struct VoIPPushPayload {
+  public let uuid: Foundation.UUID
+  public let hotlineName: Swift.String
+  public let groupName: Swift.String
+  public let isVPM: Swift.Bool
+  public let isCustomer: Swift.Bool
+  public let transId: Swift.String
+  public let groupCallId: Swift.String
+  public let callerName: Swift.String
 }
 extension VBotPhoneSDK.NetworkReachabilityManager.NetworkReachabilityStatus.ConnectionType : Swift.Equatable {}
 extension VBotPhoneSDK.NetworkReachabilityManager.NetworkReachabilityStatus.ConnectionType : Swift.Hashable {}
